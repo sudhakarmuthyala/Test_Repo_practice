@@ -1,5 +1,22 @@
 # Test_Repo_practice
 
+## Docker
+
+
+### What is Docker ?
+
+Docker is a containerization platform that provides easy way to containerize your applications, which means, using Docker you can build container images, run the images to create containers and also push these containers to container regestries such as DockerHub, Quay.io and so on.
+
+In simple words, you can understand as `containerization is a concept or technology` and `Docker Implements Containerization`.
+
+
+### Docker Architecture ?
+
+![image](https://user-images.githubusercontent.com/43399466/217507877-212d3a60-143a-4a1d-ab79-4bb615cb4622.png)
+
+The above picture, clearly indicates that Docker Deamon is brain of Docker. If Docker Deamon is killed, stops working for some reasons, Docker is brain dead :p (sarcasm intended).
+
+
 ## 1. What is container
 
 Container is a bundle of the application, application libraries required to run your application and minimum system dependencies. 
